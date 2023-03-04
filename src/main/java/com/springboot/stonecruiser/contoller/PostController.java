@@ -14,6 +14,7 @@ import com.springboot.stonecruiser.entity.Post;
 import com.springboot.stonecruiser.service.PostService;
 
 
+
 @RestController 
 @RequestMapping("/api/posts")
 public class PostController {

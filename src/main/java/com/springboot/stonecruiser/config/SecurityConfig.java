@@ -20,6 +20,7 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 import com.springboot.stonecruiser.security.JwtAuthenticationEntryPoint;
 import com.springboot.stonecruiser.security.JwtAuthenticationFilter;
 
+
 @Configuration
 @EnableWebSecurity
 public class SecurityConfig {
